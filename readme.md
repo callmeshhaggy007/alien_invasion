@@ -6,3 +6,6 @@ ___
 Built using
 * Python
 * Pygame
+
+![Screenshot at 2020-05-19 12-58-52](https://user-images.githubusercontent.com/42743629/158059544-90f84257-6593-463f-a68c-d4217460bc22.png)
+![Screenshot at 2020-05-19 12-58-22](https://user-images.githubusercontent.com/42743629/158059548-b8b8f256-63cb-4ad7-9474-f9dece51fc04.png)
